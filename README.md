@@ -19,22 +19,7 @@ It displays the latest news with heading along with its full description.
     1. source variable in index.js according to your api key(line number 4)
     2. apiKey variable in index.js according to your api key(line number 5)
 4. Run index.html on your local host
-
-
-![Screenshot (6)](https://user-images.githubusercontent.com/70146188/134880760-ae698f85-80e9-43b1-ba67-455ad78e577e.png)
-
-
-![Screenshot (7)](https://user-images.githubusercontent.com/70146188/134880845-da5c2988-2212-411c-97c7-5f49891bb664.png)
-
-
-![Screenshot](https://user-images.githubusercontent.com/70146188/134884967-231e9dcf-ab95-4e55-898d-a951c6e8edb5.png)
-
-
-![Screenshot](https://user-images.githubusercontent.com/70146188/134885706-55afa018-edc5-465b-a25d-d030b04c7d3d.png)
-
-
-![Screenshot](https://user-images.githubusercontent.com/70146188/134886029-0e0d0a8b-7570-4626-90ff-ca46da32d30b.png)
-
+   
 
 # Built with:
 
